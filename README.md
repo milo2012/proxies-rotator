@@ -10,3 +10,7 @@ Dockerfile for Proxies Testing/Rotation
 #Below are the basic steps  
 docker pull milo2012/proxies  
 docker run -p 5566:5566 --privileged=true -t milo2012/proxies:1.0  
+
+
+** Special Thanks to http://www.pythonforpentesting.com for proxist.py ***
+
